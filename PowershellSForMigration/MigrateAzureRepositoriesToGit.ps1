@@ -6,13 +6,13 @@ $env:ADO_PAT=
 $env:TARGET_API_URL="https://api.octocorp.ghe.com"
 
 # Define migration parameters
-$GITHUB_ORG="Delware-test"
-$ADO_ORG="DevOpsDreamscape"
-$ACTOR="ManuCoppens"
-$ACTOR_TYPE="USER"
-#$ADO_TEAM_PROJECT="Stage - Manu"
-#$ADO_REPO="manu.inf.repo"
-#$GITHUB_REPO="test-repo"
+$GITHUB_ORG=
+$ADO_ORG=
+$ACTOR=""
+$ACTOR_TYPE=
+#$ADO_TEAM_PROJECT=
+#$ADO_REPO=
+#$GITHUB_REPO=
 $SCRIPT_OUTPUT="migration_script.ps1"
 
 # Grant migrator role to the user
