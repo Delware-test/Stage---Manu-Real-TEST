@@ -1,6 +1,6 @@
 # Set environment variables for GitHub and Azure DevOps personal access tokens
-$env:GH_PAT="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"
-$env:ADO_PAT="QubhXD6YqbTkVAQMGKkrFfcR4aS6syShkpf9mC7bAt4sPcD0c49FJQQJ99BCACAAAAAFp3xEAAASAZDO1zWR"
+$env:GH_PAT=
+$env:ADO_PAT=
 
 # Optional: Set the base API URL for GitHub Enterprise Cloud if needed
 $env:TARGET_API_URL="https://api.octocorp.ghe.com"
